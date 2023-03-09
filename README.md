@@ -16,6 +16,8 @@ TEST_GUILD="1234567"
 
 > Create your bot here. [Discord Developer Portal](https://discord.com/developers/applications) <br> 
   You will find many tutorials how to do that on Youtube/Google.
+  
+  Enable all Privileged intents.
 
 ## To add your own Commands / Events
 To add a new category copy the schema of the `example` folder and for the events is it mostly the same you can follow the schema.
